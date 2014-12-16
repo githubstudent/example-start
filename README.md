@@ -1,3 +1,3 @@
 # Example-Start Practice Repo
 
-Some text here.
+We're learning about the Git three staging thinking process.
